@@ -22,8 +22,12 @@ v0.app을 활용해 제작한 2D 레이싱 웹 게임입니다.
 - Deployment: Vercel
 - Platform: v0.app
 
-##실행 링크
--https://v0.app/chat/2-d-racing-game-dql0NCpTkT3?ref=8K9JFP
+##실행 링크 및 구동 화면
+https://v0.app/chat/2-d-racing-game-dql0NCpTkT3?ref=8K9JFP
+<img width="737" height="812" alt="스크린샷 2025-12-19 134325" src="https://github.com/user-attachments/assets/13e22d7e-71ad-4c41-b79d-bfdf6af428b2" />
+<img width="879" height="764" alt="스크린샷 2025-12-19 134223" src="https://github.com/user-attachments/assets/1b59ab92-6763-41e9-8193-7448d82395a0" />
+
+
 
 ## 실행 방법
 ```bash
