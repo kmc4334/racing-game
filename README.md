@@ -35,3 +35,5 @@ npm install
 
 # 개발 서버 실행
 npm run dev
+
+#https://v0.app/chat/2-d-racing-game-dql0NCpTkT3?ref=8K9JFP
