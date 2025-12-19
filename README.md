@@ -22,6 +22,9 @@ v0.app을 활용해 제작한 2D 레이싱 웹 게임입니다.
 - Deployment: Vercel
 - Platform: v0.app
 
+##실행 링크
+-https://v0.app/chat/2-d-racing-game-dql0NCpTkT3?ref=8K9JFP
+
 ## 실행 방법
 ```bash
 # 저장소 클론
@@ -36,4 +39,3 @@ npm install
 # 개발 서버 실행
 npm run dev
 
-#https://v0.app/chat/2-d-racing-game-dql0NCpTkT3?ref=8K9JFP
