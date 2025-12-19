@@ -1,30 +1,37 @@
-# 2D racing game
+# 🏁 2D 레이싱 게임
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+## 프로젝트 소개
+v0.app을 활용해 제작한 2D 레이싱 웹 게임입니다.  
+플레이어가 차량을 조작해 트랙을 주행하는 간단한 레이싱 게임으로,  
+웹 기반 게임 구조와 배포 과정을 이해하는 것을 목표로 했습니다.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kmc4334s-projects/v0-2-d-racing-game)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/dql0NCpTkT3)
+## 개발 기간
+2024.11 ~ 2024.12 (2개월)
 
-## Overview
+## 주요 기능
+- 2D 레이싱 게임 화면 구현
+- 차량 이동 및 조작
+- 게임 화면 실시간 렌더링
+- v0.app과 GitHub 자동 동기화
+- Vercel을 통한 웹 배포
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 사용 기술
+- Frontend: React, TypeScript
+- Styling: CSS / UI 컴포넌트(v0)
+- Build Tool: Vite
+- Deployment: Vercel
+- Platform: v0.app
 
-## Deployment
+## 실행 방법
+```bash
+# 저장소 클론
+git clone <YOUR_GIT_URL>
 
-Your project is live at:
+# 프로젝트 폴더 이동
+cd <YOUR_PROJECT_NAME>
 
-**[https://vercel.com/kmc4334s-projects/v0-2-d-racing-game](https://vercel.com/kmc4334s-projects/v0-2-d-racing-game)**
+# 의존성 설치
+npm install
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/dql0NCpTkT3](https://v0.app/chat/dql0NCpTkT3)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+# 개발 서버 실행
+npm run dev
